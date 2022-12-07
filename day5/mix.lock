@@ -1,0 +1,3 @@
+%{
+  "deque": {:hex, :deque, "1.2.0", "30404b86264be3eeb4e8331d88ef67d0fdc77e006b2fa7872be03923a47245b7", [:mix], [], "hexpm", "cbc965c2c04654fee7ed875bf5efb5c925e1c98b0351bf1cca10670a024fbd5a"},
+}
